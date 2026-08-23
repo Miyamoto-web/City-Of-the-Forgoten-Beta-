@@ -56,7 +56,7 @@ You need a **C compiler (GCC or MSVC/MinGW)** and **Raylib** installed on your s
    
    
 
-#### Windowns : Using w64devkit / MinGW (Recommended for Terminal)
+#### Windows : Using w64devkit / MinGW (Recommended for Terminal)
 1. Install [w64devkit](https://github.com/skeeto/w64devkit) or MinGW-w64 configured with Raylib binaries.
 2. Open **Command Prompt / PowerShell** in the project directory:
    ```cmd

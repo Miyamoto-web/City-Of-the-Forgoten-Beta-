@@ -30,6 +30,9 @@ What starts as a routine missing records case quickly forces Bogart into a maze 
 - **Classic Noir Aesthetics:** Stylized lighting, immersive rain effects, and a moody original soundtrack.
 
 ---
+## AI Use
+
+_ I used Ai for debugging and Learning things that i didn't Know(this project is my first time coding in Raylib)
 
 ##  Tech Stack
 
@@ -39,7 +42,11 @@ What starts as a routine missing records case quickly forces Bogart into a maze 
 - **Version Control:** Git / GitHub
 
 ---
+## 🎨 Credits & Assets Attribution
 
+- **3D Models & Textures:** Sourced from free community assets on [Sketchfab](https://sketchfab.com) and [Poly Pizza](https://poly.pizza) under Creative Commons licenses.
+- **Audio & Music:** Public domain and royalty-free noir jazz audio tracks sourced from [Free Music Archive](https://freemusicarchive.org) / [Pixabay](https://pixabay.com).
+- **Engine & Code:** Built using [Raylib](https://www.raylib.com/) in C.
 ##  How to Build & Run
 
 ### Prerequisites
@@ -62,3 +69,5 @@ You need a **C compiler (GCC or MSVC/MinGW)** and **Raylib** installed on your s
    ```cmd
    gcc main.c -lraylib -lopengl32 -lgdi32 -lwinmm -o city_of_the_forgotten.exe
    city_of_the_forgotten.exe
+
+

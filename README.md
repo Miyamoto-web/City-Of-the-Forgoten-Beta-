@@ -53,25 +53,26 @@ What starts as a routine missing records case quickly forces Bogart into a maze 
 - **Engine & Code:** Built using [Raylib](https://www.raylib.com/) in C.
 ##  How to Build & Run
 
+## How to Build and Run from Source
+
 ### Prerequisites
-You need a **C compiler (GCC or MSVC/MinGW)** and **Raylib** installed on your system.
+- A working C compiler (`gcc`)
+- [Raylib](https://www.raylib.com/) installed on your system
 
 ---
 
-###  Linux (Steam Deck / Ubuntu / Debian)
+### 🐧 Linux / SteamOS
 
-1. **Install dependencies & Raylib:**
-   ```bash
-   sudo apt update
-   sudo apt install build-essential libraylib-dev libasound2-dev libx11-dev libxrandr-dev libxi-dev libgl1-mesa-dev libglu1-mesa-dev
-   
-   
+```bash
+# 1. Clone the repository
+git clone [https://github.com/Miyamoto-web/City-Of-the-Forgoten-Beta-.git](https://github.com/Miyamoto-web/City-Of-the-Forgoten-Beta-.git)
 
-#### Windows : Using w64devkit / MinGW (Recommended for Terminal)
-1. Install [w64devkit](https://github.com/skeeto/w64devkit) or MinGW-w64 configured with Raylib binaries.
-2. Open **Command Prompt / PowerShell** in the project directory:
-   ```cmd
-   gcc main.c -lraylib -lopengl32 -lgdi32 -lwinmm -o city_of_the_forgotten.exe
-   city_of_the_forgotten.exe
+# 2. Enter the project folder
+cd City-Of-the-Forgoten-Beta-
 
+# 3. Compile
+gcc main.c -o SantaCeniza -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
+
+# 4. Run the game
+./SantaCeniza
 

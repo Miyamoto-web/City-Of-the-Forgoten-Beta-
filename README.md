@@ -1,22 +1,26 @@
 # City of the Forgotten (Beta)
 
-A dark, atmospheric noir detective adventure built in C using **Raylib**. Set in an alternate 1947 post-WWII dystopia, the game combines 3D environment exploration with interactive terminal investigation and hardboiled narrative systems.
+A dark,and dystopian atmospheric noir detective adventure Heavly inspireted by Batman The Animated Series Grim Fandango and the Political Themes of Fallout built in  purely on C using **Raylib**. 
 
 ---
 
 ##  The World
 
-The year is **1947**. The city is **Angela**—a rain-slicked, suffocating urban nightmare drowning in smog, neon glare, and the unhealed scars of the Second World War.
+The year is **1946**. The city is **Santa Ceniza**- A Sour City With Deep WW2 wounds and suffocating urban nightmare, once a Hopeful and prosperus City now hosts the rotten scum of the contry while drowning in endless Rains fog and Nuclear Fear, In Santa Ceniza Peace is a distant a foggy Memory and history is just a another thing that can be erased and reshapeted 
 
-In Angela, memory is a commodity and history is fragile. As physical archives mysteriously burn to ashes across the city, the populace is pushed into total reliance on proprietary electronic terminals controlled by monolithic corporate interests. Truth is no longer recorded on paper; it is managed, encrypted, and wiped at will.
+---
+
+### The Factions
+
+The **Libery Crusaders** Are in the surface a Kind hearted Militia That Preaches Free knowlage and Trasparancy but in reality they are moralty grey miltia that will sacrifice any one of their members for the upper hand in their fighting
 
 ---
 
 ##  The Case
 
-You play as **Robert Bogart**, a cynical private investigator running a bottom-tier agency in the bruised heart of Angela. Bogart is a man haunted by his past in the WWII Pacific Campaign, carrying memories that the rain can't wash away and a paranoia that never quite sleeps.
+You play as **Robert Bogart**, a depresseed private and independent investigator running a bottom Private Detective agency . Robert is a man haunted by his past in the WWII Pacific Campaign, carrying memories that the rain can't wash away a paranoia that never quite sleeps and a Severe dependency to Tabaco.
 
-The story begins on a cold evening when **Mrs. Lee** walks into Bogart's office. Her husband, a quiet library administrator, was officially pronounced dead in a devastating facility fire. But as clinical databases are wiped clean overnight and conflicting stories emerge from the ashes, Mrs. Lee needs an outsider to dig through the digital clutter.
+The story begins on a foggy night **Mr lee
 
 What starts as a routine missing records case quickly forces Bogart into a maze of encrypted terminals, underground radio whispers, and conflicting motives where no one—neither the corporate regime nor the armed resistance—can be fully trusted.
 
@@ -32,7 +36,7 @@ What starts as a routine missing records case quickly forces Bogart into a maze 
 ---
 ## AI Use
 
-_ I used Ai for debugging and Learning things that i didn't Know(this project is my first time coding in Raylib)
+ I used Ai for debugging and Learning things that i didn't Know(this project is my first time coding in Raylib)
 
 ##  Tech Stack
 

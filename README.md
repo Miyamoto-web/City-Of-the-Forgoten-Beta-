@@ -72,32 +72,14 @@ All this questions will be answerd in
 - A working C compiler (`gcc`)
 - [Raylib](https://www.raylib.com/) installed on your system
 
-###  Linux / SteamOS (Steam Deck)
+## How to Play (For Players)
 
-```bash
-# 1. Clone the repository
-git clone [https://github.com/Miyamoto-web/City-Of-the-Forgoten-Beta-.git](https://github.com/Miyamoto-web/City-Of-the-Forgoten-Beta-.git)
+1. Download **[City of the forgotten 0.zip](https://github.com/Miyamoto-web/City-Of-the-Forgoten-Beta-/raw/main/City%20of%20the%20forgotten%200.zip)**.
+2. Extract the archive to any folder.
+3. Open the extracted folder `City of the forgotten 0.1`.
+4. Run the executable:
+   - **Linux / Steam Deck:** `./city_of_the_forgotten` (or double-click it).
+   - **Windows:** `SantaCeniza.exe`.
 
-# 2. Enter the project folder
-cd City-Of-the-Forgoten-Beta-
-
-# 3. Compile
-gcc main.c -o SantaCeniza -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
-
-# 4. Run the game
-./SantaCeniza
-```
-### Windows
-# 1. Clone the repository
-git clone [https://github.com/Miyamoto-web/City-Of-the-Forgoten-Beta-.git](https://github.com/Miyamoto-web/City-Of-the-Forgoten-Beta-.git)
-
-# 2. Enter the project folder
-cd City-Of-the-Forgoten-Beta-
-
-# 3. Compile
-gcc main.c -o SantaCeniza.exe -lraylib -lopengl32 -lgdi32 -lwinmm
-
-# 4. Run the game
-.\SantaCeniza.exe
 
 

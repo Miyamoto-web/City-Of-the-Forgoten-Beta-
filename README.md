@@ -47,6 +47,12 @@ All this questions will be answerd in
 
 
 ---
+##  Gameplay Demo & Media
+
+-  **Gameplay Video:** [Watch the Demo Video Here](https://youtu.be/EAttLvAmuyM) 
+-  **Supported Platforms:** Linux / SteamOS (Steam Deck) & Windows (x86_64)
+
+> **Note for Reviewers:** If you are testing on macOS or don't want to install standard dependencies, please check the gameplay video above to rate the mechanics!
 ## AI Use
 
  I used Ai for debugging and Learning things that i didn't Know (this project is my first time coding in Raylib)
@@ -59,14 +65,14 @@ All this questions will be answerd in
 - **Version Control:** Git / GitHub
 
 ---
-## 🎨 Credits & Assets Attribution
+##  Credits & Assets Attribution
 
 - **3D Models & Textures:** Sourced from free community assets on [Sketchfab](https://sketchfab.com) and [Poly Pizza](https://poly.pizza) under Creative Commons licenses.
 - **Audio & Music:** Public domain and royalty-free noir jazz audio tracks sourced from [Free Music Archive](https://freemusicarchive.org) / [Pixabay](https://pixabay.com).
 - **Engine & Code:** Built using [Raylib](https://www.raylib.com/) in C.
 ##  How to Build & Run
 
-## 🎮 How to Play (For Players)
+##  How to Play (For Players)
 
 No compilers or extra dependencies required!
 
@@ -76,10 +82,18 @@ No compilers or extra dependencies required!
 4. Run the executable:
    - **Linux / Steam Deck:** Double-click `./city_of_the_forgotten` (or run `./city_of_the_forgotten` in terminal).
    - **Windows:** Double-click `SantaCeniza.exe`.
+##  Controls
 
+| Action | Keyboard & Mouse | Steam Deck / Controller |
+| :--- | :--- | :--- |
+| **Movement** | `W` `A` `S` `D` / Arrow Keys | Left Analog Stick |
+| **Interact / Examine** | `E` / Left Click | `A` Button |
+| **Terminal Hacking / Type** | Keyboard | On-Screen Keyboard / Touchscreen |
+| **Open Inventory & Notes** | `Tab` / `I` | `Y` Button / Select |
+| **Pause / Menu** | `Esc` | Start Button |
 ---
 
-## 🚀 How to Build from Source (For Developers)
+##  How to Build from Source (For Developers)
 
 If you want to modify the C code or compile the binary yourself:
 
@@ -87,7 +101,7 @@ If you want to modify the C code or compile the binary yourself:
 - A working C compiler (`gcc`)
 - [Raylib](https://www.raylib.com/) library installed on your system
 
-### 📥 1. Clone the repository
+###  1. Clone the repository
 ```bash
 git clone [https://github.com/Miyamoto-web/City-Of-the-Forgoten-Beta-.git](https://github.com/Miyamoto-web/City-Of-the-Forgoten-Beta-.git)
 cd City-Of-the-Forgoten-Beta-

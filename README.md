@@ -78,12 +78,8 @@ I used AI for debugging and learning Raylib concepts (this project is my first t
 
 No compilers or extra dependencies required!
 
-1. Download the executable package from our **[Itch.io Page](https://miyamoto-web.itch.io/city-of-the-forgotten)** or from the **[GitHub Releases](https://github.com/Miyamoto-web/City-Of-the-Forgoten-Beta-/releases)** section.
-2. Extract the archive to any folder.
-3. Run the executable:
-   - **Linux / Steam Deck:** Double-click `./city_of_the_forgotten` (or run `./SantaCeniza` in terminal).
-   - **Windows:** Double-click `SantaCeniza.exe`.
-
+1. Download the executable package from our **[Itch.io Page](https://miyamoto-web.itch.io/city-of-the-forgotten)**  section.
+2. Click the button play game.
 ---
 
 ## Controls

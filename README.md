@@ -43,7 +43,6 @@ All these questions will be answered in **The City of the Forgotten**.
 ## Gameplay Demo & Media
 
 - **Itch.io Page:** [Play / Download on Itch.io](https://miyamoto-web.itch.io/city-of-the-forgotten)
-- **GitHub Releases:** [Download Binaries](https://github.com/Miyamoto-web/City-Of-the-Forgoten-Beta-/releases)
 - **Gameplay Video:** [Watch the Demo Video Here](https://youtu.be/EAttLvAmuyM)
 - **Supported Platforms:** Linux / SteamOS (Steam Deck) & Windows (x86_64)
 

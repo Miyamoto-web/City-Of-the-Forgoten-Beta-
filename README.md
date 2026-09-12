@@ -1,31 +1,33 @@
 # City of the Forgotten (Beta)
 
-A dark and dystopian atmospheric noir detective adventure heavily inspired by Batman: The Animated Series, Grim Fandango, the political themes of Fallout, and the philosophy of the Frankfurt School and Mass Culture, built purely in C using **Raylib**.
+The Beta Of my Game City of the Forgotten A Point and Click Detective Game with Inspirations Of: Fallout, The Game Grim Fandago, Batman Animated Series and The Comic WatchMen
 
 ---
 
 ## The World
 
-The year is **1946**. The city is **Santa Ceniza** — a sour city with deep WWII wounds and a suffocating urban nightmare. Once a hopeful and prosperous city, it now hosts the rotten scum of the country while drowning in endless rain, fog, and nuclear fear. In Santa Ceniza, peace is a distant and foggy memory, and history is just another thing that can be erased and reshaped.
+- The world of the game is a Alternative Universe set in 1946 In this World The Great Depresion Never Happend and Germany Developed The Nuclear Bomb before the USA and the USSR in a Desparate Attempt They droped Their Only Nuclear Bomb on Moscou Making Central Russia a Nuclear Frozen WasteLand Shortly After Germany Defeat The USA Goverment Devoloped Their Own Nuclear Bomb. In the Pacific Campain The American Goverment Maked Japan Surrunder After Droping The nuclear Bomb on Hiroshima e Nagazaki. After the Collapse of The USSR The American Goverment Became The Solo Super Power but the Intensive Consumism,The Market Speculation and The Domestic Backlash Caused By The Intensive Campain On the Pacific Campaign Severly Cripeled The US Economy and Made The American Citizens Wake Up From the American Dream.
+---
+### Santa Ceniza
+- The Local where The Game takes place A Unforgiven City once the Heart of the Economy tecnology and arts of the United States Now it's Just a Corpse of the Once prosperous City
 
 ---
-
 ### The Factions
 
-- **The Liberty Crusaders:** On the surface, a kind-hearted militia that preaches free knowledge and transparency. In reality, a morally grey militia willing to sacrifice any of its members for the upper hand in their fight for "freedom". Their leader, **Flavio MacKaye**, is a tragic and paranoid man who believes the ends justify the means.
-- **Inc Corp:** A massive tech corporation dominating information and manufacturing everything from street spy cameras to military robots for the US Army. Their leader, **X Veidt**, is an eccentric and power-hungry man who wants full, silent control over **Santa Ceniza** and the free will of its citizens by monopolizing media and information. He believes in a state where only the capable and educated govern society.
+- **The Liberty Crusaders:** On the surface, a kind-hearted militia that preaches free knowledge and transparency. In reality, a morally grey militia willing to sacrifice any of its members for the upper hand in their fight for "freedom". Their leader, **Flavio MacKaye**, is a tragic and paranoid man who believes the Result justify the Ways.
+- **Inc Corp:** A massive tech corporation dominating information and manufacturing everything from street spy cameras to military anti Riot robots for the US Army. Their leader, **X Veidt**, is an eccentric, Educated and Lonely man who wants full, silent control over **Santa Ceniza** and the Liberty of it's Citizens by monopolizing media and information. He believes in a state where only the capable and educated Truly govern society.
 
 ---
 
 ## The Case
 
-You play as **Robert Bogart**, a depressed private investigator running a bottom-tier detective agency. Robert is a man haunted by his past in the WWII Pacific Campaign, carrying memories that the rain cannot wash away, a paranoia that never sleeps, and a severe tobacco dependency.
+You play as **Robert Bogart**, a depressed private investigator running a detective agency. Robert is a man haunted by his past in the WWII Pacific Campaign Carrying a paranoia that never stops, and a severe tobacco dependency.
 
 The story begins on a foggy night. **Mr. Lee** — Chief Administrator of the libraries of Santa Ceniza and an influential, beloved member of the Liberty Crusaders — dies in a massive fire caused by a series of mysterious attacks on the city's public libraries. His wife, **Mrs. Lee** (at first look a soft-spoken and sweet woman who hides her true persona), along with the Liberty Crusaders, hires you to investigate his mysterious death.
 
-What starts as an odd case quickly escalates, forcing Robert into a maze of corporate manipulation, paranoia, secrets, whispers of the past, and questions of free will:
+What starts as an odd case quickly escalates, forcing Robert into a maze of corporate manipulation, paranoia, secrets, whispers of the past, and questions of Liberty and Morals:
 * *Who murdered Mr. Lee?*
-* *Who is truly in the right?*
+* *Who is truly right?*
 * *Is Mrs. Lee manipulating you?*
 
 All these questions will be answered in **The City of the Forgotten**.

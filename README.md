@@ -1,14 +1,14 @@
 # City of the Forgotten
 
-The beta of my game, City of the Forgotten, is a point-and-click detective game inspired by Fallout, Grim Fandango, Batman: The Animated Series, and the Watchmen comic.
+The beta of my game, **City of the Forgotten**, is a point-and-click detective game inspired by Fallout, Grim Fandango, Batman: The Animated Series, and the Watchmen comic.
 
 ---
 
 ## About the Game
 
-The City of the Forgotten is a 3D noir point-and-click detective game set in an alternate 1946.
+**The City of the Forgotten** is a 3D noir point-and-click detective game set in an alternate 1946.
 
-This release is a **short** demonstration of the game's current development in Godot, featuring an explorable detective office, point-and-click interactions, a terminal puzzle, and a short narrative sequence.
+This release is a **short demonstration** of the game's current development in Godot, featuring an explorable detective office, point-and-click interactions, a terminal puzzle, and a short narrative sequence.
 
 It is not the complete game. Many planned gameplay systems, animations, environments, and narrative elements are still under development.
 
@@ -16,9 +16,9 @@ It is not the complete game. Many planned gameplay systems, animations, environm
 
 ## The World
 
-The world of The City of the Forgotten is an alternate universe where the Great Depression never happened. During World War II, Germany developed the first nuclear bomb and, in a desperate attempt to turn the tide of the war, dropped its only bomb on Moscow, turning Central Russia into a frozen nuclear wasteland.
+The world of **The City of the Forgotten** is an alternate universe where the Great Depression never happened. During World War II, Germany developed the first nuclear bomb and, in a desperate attempt to turn the tide of the war, dropped its only bomb on Moscow, turning Central Russia into a frozen nuclear wasteland.
 
-Following Germany's defeat and the collapse of the Soviet Union, the United States became the world's sole superpower. During the Pacific Campaign, the United States invaded Japan in 1940 and bombed Hiroshima and Nagasaki in 1941, forcing Japan's surrender.
+Following Germany's defeat in Europe and the collapse of the Soviet Union, the United States became the world's sole superpower. During the Pacific Campaign, the United States invaded Japan in 1940 and bombed Hiroshima and Nagasaki in 1941, forcing Japan's surrender.
 
 In 1943, Europe began to rebuild and formed a large economic and technological bloc. However, the economic burden of the Pacific Campaign, combined with rampant consumerism and market speculation, gradually weakened the American economy. The American Dream began to crumble, leaving behind a nation struggling with the consequences of its own prosperity.
 
@@ -26,7 +26,7 @@ In 1943, Europe began to rebuild and formed a large economic and technological b
 
 - **1937:** Germany develops the first nuclear bomb.
 - **1937:** Germany drops its only nuclear bomb on Moscow, devastating Central Russia.
-- **1938:** Germany is defeated, ending World War II in Europe.
+- **1938:** Germany is defeated, bringing the war in Europe to an end.
 - **1939:** The Soviet Union collapses.
 - **1940:** The United States invades Japan during the Pacific Campaign.
 - **1941:** The United States bombs Hiroshima and Nagasaki, forcing Japan's surrender.
@@ -43,8 +43,8 @@ Santa Ceniza is a dystopian city inspired by Los Angeles. It was once considered
 
 ### The Factions
 
-- **The Liberty Crusaders:** On the surface, a kind-hearted militia that preaches free knowledge and transparency. In reality, a morally grey militia willing to sacrifice any of its members for the upper hand in their fight for "freedom." Their leader, **Flavio MacKaye**, is a tragic and paranoid man who believes the results justify the means.
-- **Inc Corp:** A massive tech corporation dominating information and manufacturing everything from surveillance cameras to military anti-riot robots for the US Army. Its leader, **X Veidt**, is an eccentric, educated, and lonely man who wants full, silent control over **Santa Ceniza** and the liberty of its citizens by monopolizing media and information. He believes in a state where only the capable and educated truly govern society.
+- **The Liberty Crusaders:** On the surface, a kind-hearted militia that preaches free knowledge and transparency. In reality, it is a morally grey organization willing to sacrifice any of its members to gain the upper hand in its fight for "freedom." Its leader, **Flavio MacKaye**, is a tragic and paranoid man who believes the results justify the means.
+- **Inc Corp:** A massive tech corporation that dominates the information industry and manufactures everything from surveillance cameras to military anti-riot robots for the US Army. Its leader, **X Veidt**, is an eccentric, educated, and lonely man who wants to exert complete and silent control over **Santa Ceniza** and its citizens by monopolizing media and information. He believes in a state where only the capable and educated truly govern society.
 
 ---
 
@@ -52,7 +52,7 @@ Santa Ceniza is a dystopian city inspired by Los Angeles. It was once considered
 
 You play as **Robert Bogart**, a cynical private investigator running his own detective agency. Haunted by his past in the WWII Pacific Campaign, Robert is plagued by constant paranoia, a severe tobacco dependency, and a strong desire to uncover the truth.
 
-The story begins on a foggy night. **Mr. Lee** — chief administrator of the libraries of Santa Ceniza and an influential, beloved member of the Liberty Crusaders — dies in a massive fire caused by a series of mysterious attacks on the city's public libraries. His wife, **Mrs. Lee** (at first glance, a soft-spoken and sweet woman who hides her true persona), along with the Liberty Crusaders, hires you to investigate his mysterious death.
+The story begins on a foggy night. **Mr. Lee** — chief administrator of Santa Ceniza's public libraries and an influential, beloved member of the Liberty Crusaders — dies in a massive fire following a series of mysterious attacks on the city's public libraries. His wife, **Mrs. Lee** (at first glance, a soft-spoken and sweet woman who hides her true persona), along with the Liberty Crusaders, hires you to investigate his mysterious death.
 
 What starts as an odd case quickly escalates, forcing Robert into a maze of corporate manipulation, paranoia, secrets, whispers of the past, and questions of liberty and morality:
 
@@ -84,9 +84,9 @@ All these questions will be answered in **The City of the Forgotten**.
 
 - **Itch.io Page:** [Play / Download on Itch.io](https://miyamoto-web.itch.io/city-of-the-forgotten)
 - **Gameplay Video:** [Watch the Demo Video Here](https://youtu.be/yjwaz1NtY1I)
-- **Supported Platforms:** Linux / SteamOS (Steam Deck) & Windows (x86_64)
+- **Supported Platforms:** Linux / SteamOS (Steam Deck) and Windows (x86_64)
 
-> **Note for Reviewers:** If you don't want to install the game, you can check the gameplay video or test the build on itch.io!
+> **Note for Reviewers:** If you don't want to install the game, you can watch the gameplay video or download the build from itch.io.
 
 ---
 
@@ -165,7 +165,7 @@ The following assets were obtained from external sources and were not created by
 
 - **Desk 3D Model:** [Free3D](https://free3d.com/3d-models/desk)
 - **Fallout Monitor 3D Model:** [CGTrader](https://www.cgtrader.com/free-3d-models/electronics/computer/fallout-monitor)
-- **Music:** "Jazz Rainy Night" by Alex Morgan — [Source](https://pixabay.com/)
+- **Music:** "Jazz Rainy Night Music" by alex-morgan — [Pixabay](https://pixabay.com/music/modern-jazz-jazz-rainy-night-music-571656/)
 
 ---
 
